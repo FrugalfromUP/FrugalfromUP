@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **engeeneerritesh@gmail.com**
 
-- 📄 Know about my experiences [www.ritesh.life](www.ritesh.life)
+- 📄 Know about my experiences [www.ritesh.life](https://github.com/FrugalfromUP?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

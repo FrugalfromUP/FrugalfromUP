@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frugalfromup" alt="frugalfromup" /></a> </p>
 
-- 🔭 I’m currently working on **TrialComplete**
+- 🔭 I’m currently working on **SafeSend Suite**
 
-- 🌱 I’m currently learning **.Net Framework**
+- 🌱 I’m currently learning **AZURE**
 
-- 💬 Ask me about **C#, .Net Core, Angular, MySQL etc.**
+- 💬 Ask me about **C#, .Net Core, React, Angular, MySQL etc.**
 
 - 📫 How to reach me **engeeneerritesh@gmail.com**
 
